@@ -10,11 +10,11 @@
     "last_reset": "2026-08-12",
     "notes": "Wellcome"
   }
-    "BASIC-BCB6E09A": {
+    "PRO-53DACCAC": {
     "device_id": null,
     "created_at": "2026-08-12",
     "expires_at": "2027-01-01",
-    "tier": "basic",
+    "tier": "PRO",
     "usage_limit": 5,
     "usage_period": "monthly",
     "downloads_used": 0,
